@@ -1,0 +1,31 @@
+body{
+    background-color: lightblue;
+
+}
+
+.contenedorG{
+    text-align: center;
+    padding: 400px;
+}
+
+
+.input{
+    width :300px;
+    height: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.boton{
+    height: 28px;
+    font-size: 19px;
+}
+.contenedor{
+    padding-top: 15px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.pokemon img{
+    height: 150px;
+}
+
